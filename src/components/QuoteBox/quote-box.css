@@ -1,0 +1,59 @@
+.quote-box {
+  background-color: #22262C;
+  height: auto;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  width: 90%;
+  padding: 1.5em 2em;
+}
+@media screen and (min-width: 760px) {
+  .quote-box {
+    max-width: 800px;
+  }
+}
+
+
+.text .author {
+  padding: 0.5rem;
+  font-size: 18px;
+  width: 100%;
+  padding-right: 0;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.text {
+  padding: 2em 0;
+  display: flex;
+  flex-direction: column;
+  font-size: 22px;
+  color: #fff
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between
+}
+
+.buttons .button {
+  width: auto;
+  height: auto;
+  border: 0;
+  padding: 0.3em;
+  padding-bottom:0;
+  border-radius: 4px;
+  background-color: #BE3760;
+  color: #fff;
+  padding: 0.5em;
+}
+
+.buttons .button img {
+  padding: 0;
+  margin: 0;
+  width: 32px;
+  background-color: #BE3760;
+} 
+
+.quote {
+  margin: 0.4em;
+}
