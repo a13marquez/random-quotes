@@ -1,3 +1,11 @@
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/a13marquez/random-quotes)
+
+# Random quotes generator
+
+App that shows random quote, it allows to share this quote on Twitter or ask for another one. Made as part of FreeCodeCamp's Front End Libraries Projects
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
